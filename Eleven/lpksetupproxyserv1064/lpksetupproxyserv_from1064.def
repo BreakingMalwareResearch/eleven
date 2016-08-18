@@ -1,0 +1,4 @@
+LIBRARY lpksetupproxyserv_from1064.dll
+EXPORTS
+	DllCanUnloadNow=DllCanUnloadNow_wrapper @1
+	DllGetClassObject=DllGetClassObject_wrapper @2

@@ -1,0 +1,10 @@
+The dlls provided for demostration are simple proxy DLLs,
+created with a Wrapper Generator script by m4v3n.
+
+When loaded, a proxy DLL will load the original DLL from C:\Windows\System32
+using LoadLibraryA API call and export the original functions.
+This allows the calling program to continue functioning normally.
+
+Upon loading, the proxy DLL will spawn command line window.
+
+These DLLs are here for a PoC and are compiled for Windows 10 x86 and x64.

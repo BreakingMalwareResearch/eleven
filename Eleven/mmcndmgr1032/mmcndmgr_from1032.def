@@ -1,0 +1,7 @@
+LIBRARY mmcndmgr_from1032.dll
+EXPORTS
+	CreateExecutivePlatform=CreateExecutivePlatform_wrapper @1
+	DllCanUnloadNow=DllCanUnloadNow_wrapper @2
+	DllGetClassObject=DllGetClassObject_wrapper @3
+	DllRegisterServer=DllRegisterServer_wrapper @4
+	DllUnregisterServer=DllUnregisterServer_wrapper @5

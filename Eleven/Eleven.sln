@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lpksetupproxyserv_from1032", "..\..\..\..\..\..\tools\wrapper\eleven\lpksetupproxyserv1032\lpksetupproxyserv_from1032.vcxproj", "{DC930308-C83E-474B-92E2-6A71A5AC6043}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lpksetupproxyserv_from1064", "..\..\..\..\..\..\tools\wrapper\eleven\lpksetupproxyserv1064\lpksetupproxyserv_from1064.vcxproj", "{3941E9F8-2E29-4D69-8717-F74562ED5301}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mmcndmgr_from1032", "..\..\..\..\..\..\tools\wrapper\eleven\mmcndmgr1032\mmcndmgr_from1032.vcxproj", "{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mmcndmgr_from_1064", "..\..\..\..\..\..\tools\wrapper\eleven\mmcndmgr1064\mmcndmgr_from_1064.vcxproj", "{1ACD8839-116C-443A-898E-851FC99EBACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|ALL = Release|ALL
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC930308-C83E-474B-92E2-6A71A5AC6043}.Release|ALL.ActiveCfg = Release|Win32
+		{DC930308-C83E-474B-92E2-6A71A5AC6043}.Release|ALL.Build.0 = Release|Win32
+		{3941E9F8-2E29-4D69-8717-F74562ED5301}.Release|ALL.ActiveCfg = Release|x64
+		{3941E9F8-2E29-4D69-8717-F74562ED5301}.Release|ALL.Build.0 = Release|x64
+		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.Release|ALL.ActiveCfg = Release|Win32
+		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.Release|ALL.Build.0 = Release|Win32
+		{1ACD8839-116C-443A-898E-851FC99EBACC}.Release|ALL.ActiveCfg = Release|x64
+		{1ACD8839-116C-443A-898E-851FC99EBACC}.Release|ALL.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
